@@ -12,5 +12,7 @@ https://github.com/LazyBeatles/PSRefresh 这个库的思路，
 http://www.hangge.com/blog/cache/detail_1513.html 
 所以demo里有双击放大图片的展示效果，不过图片放大后pageControl展示会有问题，放大后pageControl会随着左右滑动而变化
 
+   ![git预览](https://github.com/buoge/HorizontalRefresh/blob/master/HorzontalRefrsh.mp4.gif "git预览")
+
 
 
